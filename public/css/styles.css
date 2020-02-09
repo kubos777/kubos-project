@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+	font-family: 'Questrial', sans-serif;
+}
+.build{
+	width: 40%;
+	height: auto;
+	margin-top: 10px;
+}
+.sitein{
+	margin-top: 200px;
+	color: white;
+}
